@@ -64,14 +64,14 @@ Run the Application
 
 Open your browser and go to:
 
-http://localhost/student_registration/index.php
+https://localhost//Csc-23-csc-202-Assignment-Repo-Main/index.php
 
 
 Fill out the form and submit.
 
 View all registered students at:
 
-http://localhost/student_registration/view.php
+https://localhost//Csc-23-csc-202-Assignment-Repo-Main/view.php
 
 🎨 Styling (style.css)
 
