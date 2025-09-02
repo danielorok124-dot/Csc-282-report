@@ -83,6 +83,7 @@ Added Delete button beside each record for removing a student.
 
 👨‍🎓 Student Info
 
-Name: Promise
+Name: DANIEL OROK
 
-Reg Number: 23/CSC/202
+Reg Number: 23/CSC/073
+
