@@ -1,0 +1,11 @@
+CREATE DATABASE school_db;
+
+USE school_db;
+
+CREATE TABLE student_records (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    fullname VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    department VARCHAR(100) NOT NULL,
+    matric VARCHAR(50) NOT NULL
+);
